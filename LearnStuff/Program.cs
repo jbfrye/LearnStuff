@@ -7,7 +7,10 @@ namespace LearnStuff
         static void Main(string[] args)
         {
             //FraudulentActivity.Run();
-            CountingInversions.Run();
+            //CountingInversions.Run();
+            LongestCommonSubsequence.Run();
+
+            Console.Read();
         }
     }
 }
