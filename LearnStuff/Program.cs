@@ -6,9 +6,10 @@ namespace LearnStuff
     {
         static void Main(string[] args)
         {
-            //FraudulentActivity.Run();
+            FraudulentActivity.Run();
             //CountingInversions.Run();
-            LongestCommonSubsequence.Run();
+            //LongestCommonSubsequence.Run();
+            //ReverseShuffleMerge.Run();
 
             Console.Read();
         }
