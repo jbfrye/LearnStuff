@@ -12,7 +12,8 @@ namespace LearnStuff
             //ReverseShuffleMerge.Run();
             //MinimumTimeRequired.Run();
             //MaximumSubarraySum.Run();
-            MinimumPasses.Run();
+            //MinimumPasses.Run();
+            MaxArraySum.Run();
 
             //PracticeAlgorithms.Dijkstras.Run();
 
