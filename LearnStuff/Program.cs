@@ -16,11 +16,24 @@ namespace LearnStuff
             //MaxArraySum.Run();
             //ReverseStringsInPlace.Run();
             //UncommonCharacters.Run();
-            LargestRectangle.Run();
+            //LargestRectangle.Run();
 
             //PracticeAlgorithms.Dijkstras.Run();
 
+            int[] test = new int[] { 38, 27, 43, 3, 9, 82, 10 };
+            WriteArray(test);
+            Console.WriteLine();
+            Sorting.QuickSort.Sort(test);
+            WriteArray(test);
+
             Console.Read();
+        }
+
+        public static void WriteArray(int[] arr)
+        {
+            for (int i = 0; i < arr.Length; i++)
+                Console.Write(arr[i] + " ");
+            Console.WriteLine();
         }
     }
 }
