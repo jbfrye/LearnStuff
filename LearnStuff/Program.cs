@@ -23,7 +23,7 @@ namespace LearnStuff
             int[] test = new int[] { 38, 27, 43, 3, 9, 82, 10 };
             WriteArray(test);
             Console.WriteLine();
-            Sorting.QuickSort.Sort(test);
+            Sorting.SelectionSort.Sort(test);
             WriteArray(test);
 
             Console.Read();
