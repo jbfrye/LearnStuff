@@ -15,7 +15,8 @@ namespace LearnStuff
             //MinimumPasses.Run();
             //MaxArraySum.Run();
             //ReverseStringsInPlace.Run();
-            UncommonCharacters.Run();
+            //UncommonCharacters.Run();
+            LargestRectangle.Run();
 
             //PracticeAlgorithms.Dijkstras.Run();
 
