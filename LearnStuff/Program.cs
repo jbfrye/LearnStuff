@@ -13,7 +13,9 @@ namespace LearnStuff
             //MinimumTimeRequired.Run();
             //MaximumSubarraySum.Run();
             //MinimumPasses.Run();
-            MaxArraySum.Run();
+            //MaxArraySum.Run();
+            //ReverseStringsInPlace.Run();
+            UncommonCharacters.Run();
 
             //PracticeAlgorithms.Dijkstras.Run();
 
